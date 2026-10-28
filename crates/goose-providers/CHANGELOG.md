@@ -7,6 +7,18 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.1.0-alpha.14](https://github.com/SpotTheKitty/goose/compare/gdk-v0.1.0-alpha.13...gdk-v0.1.0-alpha.14) - 2026-10-28
+
+### Fixed
+
+- *(openrouter)* resolve variant suffixes like :free and :nitro to the base model ([#12979](https://github.com/SpotTheKitty/goose/pull/12979))
+- *(voice)* use system trust for WebSockets ([#13075](https://github.com/SpotTheKitty/goose/pull/13075))
+
+### Other
+
+- Add Lemonade as a provider ([#12920](https://github.com/SpotTheKitty/goose/pull/12920))
+- *(release)* bump version to 1.57.0 (minor) ([#13161](https://github.com/SpotTheKitty/goose/pull/13161))
+
 ## [0.1.0-alpha.13](https://github.com/aaif-goose/goose/compare/gdk-v0.1.0-alpha.12...gdk-v0.1.0-alpha.13) - 2026-10-23
 
 ### Added
